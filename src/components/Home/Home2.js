@@ -100,7 +100,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/waterswallow"
+                  href="https://t.me/water_swallow"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
